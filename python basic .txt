@@ -1,3 +1,4 @@
 print("hello world")
 print(" shashi")
-print("kandi")
+this is the basic programm in python
+thankyou :)
