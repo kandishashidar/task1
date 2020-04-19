@@ -1,4 +1,0 @@
-print("hello world")
-print(" shashi")
-this is the basic programm in python
-thankyou :)
